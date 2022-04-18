@@ -17,6 +17,11 @@ Projeto de criação de Lista de Tarefas.
 # Executando Projeto
   No diretório do projeto, você pode executar:
   <strong> yarn run dev </strong> <br/>
-  Para acessar o projeto rodando basta acessar <a href="localhost:3000">localhost:3000 </a>
+  Para acessar o projeto rodando basta acessar <a href="http:www.localhost:3000">localhost:3000 </a>
+  
+  # Imagens Projeto
+  
+  ![image](https://user-images.githubusercontent.com/8063437/163893994-a97437b8-380f-4b06-9719-ecd5deb5f1f2.png)
+
 
 
